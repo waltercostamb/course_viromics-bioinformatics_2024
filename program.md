@@ -2,24 +2,26 @@
 
 This module consists of 60 working hours to be held in two weeks. Attendance is required between 9h to 12h and 13h to 16h. If not otherwise indicated by the teacher, theory will be covered in the mornings and practice in the afternoons.   
 
-The theoretical part will be composed of a series of questions for you to research and answer from 9h30 to 12h. At 12h you will present your findings to your teacher and discuss them. In the afternoon, at 13h30, the teacher will go over the practical tasks for the day with you, and and help you with setting up the system. Afterwards you will run tools and do the analysis. At 15h30 you will discuss your advances with the teacher. At any point in time, the teacher or a teacher assistant will be available to answer questions.      
+The theoretical part will be composed of a series of questions for you to research and answer from 9h to 11h30. From 11h30 to 12h you will present and discuss your findings to a teacher or teacher assistant (TA). In the afternoon, you will run tools and analyse data. From 15h30 to 16h you will discuss your advances with a teacher or TA. At any point in time, they will be available to answer questions.      
 
-- Day 1.1: MON 16/Sep/2024: Introduction
+**Week 1:**
+
+- **MON 16/Sep/2024: Introduction**
   - 9h - 10h:
     - Introduction to the program
-    - Introduce yourselves
-    - Access to draco (add tutorial - Swapnil)
-    - Discuss and decide entry point (what topics do they already know?)
-    - Evaluation criteria: lab book and presentation 
-  - 10h - 11h: 1.1_Introduction_viromics: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_Introduction_viromics.md
+    - Introduction of the students
+    - Accession to high performance cluster draco
+    - Discussion and decision of entry point into program (what topics do the students already know?)
+    - Evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.0_documentation.md) and presentation 
+  - 10h - 11h: [1.1_Introduction_viromics](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_Introduction_viromics.md)
     - Write down at least 3 questions and/or discussion point about the lecture 
   - 12h - 13h: lunch time
-  - 13h - 16h: Download and analyse sequences: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_download.md
+  - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_download.md)
 
 - Day 1.2: TUE 17/Sep/2024: Assembly
-  - 9h - 12: Assembly I: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.0_assembly_I.md
+  - 9h - 12: [Assembly I](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.0_assembly_I.md)
   - 12h - 13h: lunch time
-  - 13h - 16h: Assembly II: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1_assembly_II.md
+  - 13h - 16h: [Assembly II](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1_assembly_II.md)
  
 - Day 1.3: WED 18/Sep/2024: Identifying and annotating viruses
   - 9h - 12: Read benchmark paper: https://www.biorxiv.org/content/10.1101/2023.04.26.538077v2.full
