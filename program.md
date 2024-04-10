@@ -18,7 +18,7 @@ The theoretical part will be composed of a series of questions for you to resear
 | <ul><li>**8.0** Programming</li><li>**Prepare**: presentation</li><li>**Lab book and scripts**: final improvements</li></ul> 
 | <ul><li>**9.0** Prepare presentation</li><li>**Final presentation**</li><li>**Deliver**: lab book and scripts</li></ul> |
 
-- Day 1.1: MON 16/Sep/2024
+- Day 1.1: MON 16/Sep/2024: Introduction
   - 9h - 10h:
     - Introduction to the program
     - Introduce yourselves
@@ -30,50 +30,50 @@ The theoretical part will be composed of a series of questions for you to resear
   - 12h - 13h: lunch time
   - 13h - 16h: Download and analyse sequences: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_download.md
 
-- Day 1.2: TUE 17/Sep/2024
+- Day 1.2: TUE 17/Sep/2024: Assembly
   - 9h - 12: Assembly I: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.0_assembly_I.md
   - 12h - 13h: lunch time
   - 13h - 16h: Assembly II: https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1_assembly_II.md
  
-- Day 1.3: WED 18/Sep/2024
+- Day 1.3: WED 18/Sep/2024: Identifying and annotating viruses
+  - 9h - 12: Read benchmark paper: https://www.biorxiv.org/content/10.1101/2023.04.26.538077v2.full
+  - 12h - 13h: lunch time
+  - 13h - 16h: Jaeger, Virify and a 3rd tool on a virome and a metagenome
+
+- Day 1.4: THU 19/Sep/2024: Identifying and annotating viruses
+  - 9h - 12: talk/research annotation
+  - 12h - 13h: lunch time
+  - 13h - 16h: analyse and interprete results from yesterday
+ 
+- Day 1.5: FRI 20/Sep/2024: Taxonomy
+  - 9h - 12: Viral taxonomy vs. microbial taxonomy
+  - 12h - 13h: lunch time
+  - 13h - 16h: VContact2
+ 
+- Day 2.1: MON 23/Sep/2024: Data analysis: answering a research question
+  - 9h - 12: 
+  - 12h - 13h: lunch time
+  - 13h - 16h: 
+
+- Day 2.2: TUE 24/Sep/2024: Data visualization I
   - 9h - 12:
   - 12h - 13h: lunch time
   - 13h - 16h
 
-- Day 1.4: THU 19/Sep/2024
+- Day 2.3: WED 25/Sep/2024: Data visualization II
   - 9h - 12:
   - 12h - 13h: lunch time
   - 13h - 16h
  
-- Day 1.5: FRI 20/Sep/2024
-  - 9h - 12:
+- Day 2.4: THU 26/Sep/2024: Prepare for final presentation
+  - 9h - 12: Open hour for questions
   - 12h - 13h: lunch time
-  - 13h - 16h
- 
-- Day 2.1: MON 23/Sep/2024
-  - 9h - 12:
-  - 12h - 13h: lunch time
-  - 13h - 16h
-
-- Day 2.2: TUE 24/Sep/2024
-  - 9h - 12:
-  - 12h - 13h: lunch time
-  - 13h - 16h
-
-- Day 2.3: WED 25/Sep/2024
-  - 9h - 12:
-  - 12h - 13h: lunch time
-  - 13h - 16h
- 
-- Day 2.4: THU 26/Sep/2024
-  - 9h - 12:
-  - 12h - 13h: lunch time
-  - 13h - 16h
+  - 13h - 16h:
 
 - Day 2.5: FRI 27/Sep/2024
-  - 9h - 12:
+  - 9h - 12: Clean up documentation and scripts and send them to the teachers
   - 12h - 13h: lunch time
-  - 13h - 16h
+  - 13h - 16h: Final presentation: 20' presentation plus questions
  
 
 - Source: https://mgxlab.github.io/Viromics-Workshop-MGX/
