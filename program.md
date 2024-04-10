@@ -15,7 +15,7 @@ The theoretical part will be composed of a series of questions for you to resear
     - Evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.0_documentation.md) and presentation 
   - 10h - 11h: [1.1_introduction_viromics](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_introduction_viromics.md)
   - 12h - 13h: lunch time
-  - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_download.md)
+  - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_sequencing_quality.md)
 
 - Day 1.2: TUE 17/Sep/2024: Assembly
   - 9h - 12: [Assembly I](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.0_assembly_I.md)
