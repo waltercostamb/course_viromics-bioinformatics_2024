@@ -17,47 +17,49 @@ The theoretical part will be composed of a series of questions for you to resear
   - 12h - 13h: lunch time
   - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_sequencing_quality.md)
 
-- Day 1.2: TUE 17/Sep/2024: Assembly
+- **TUE 17/Sep/2024: Assembly**
   - 9h - 12: [Assembly I](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.0_assembly_I.md)
   - 12h - 13h: lunch time
   - 13h - 16h: [Assembly II](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1_assembly_II.md)
  
-- Day 1.3: WED 18/Sep/2024: Identifying and annotating viruses
+- **WED 18/Sep/2024: Identifying and annotating viruses**
   - 9h - 12: Read benchmark paper: https://www.biorxiv.org/content/10.1101/2023.04.26.538077v2.full
   - 12h - 13h: lunch time
   - 13h - 16h: Jaeger, Virify and a 3rd tool on a virome and a metagenome
 
-- Day 1.4: THU 19/Sep/2024: Identifying and annotating viruses
+- **THU 19/Sep/2024: Identifying and annotating viruses**
   - 9h - 12: talk/research annotation
   - 12h - 13h: lunch time
   - 13h - 16h: analyse and interprete results from yesterday
  
-- Day 1.5: FRI 20/Sep/2024: Taxonomy
+- **FRI 20/Sep/2024: Taxonomy**
   - 9h - 12: Viral taxonomy vs. microbial taxonomy
   - 12h - 13h: lunch time
   - 13h - 16h: VContact2
  
-- Day 2.1: MON 23/Sep/2024: Data analysis: answering a research question
+**Week 2:**
+ 
+- **MON 23/Sep/2024: Data analysis: answering a research question**
   - 9h - 12: 
   - 12h - 13h: lunch time
   - 13h - 16h: 
 
-- Day 2.2: TUE 24/Sep/2024: Data visualization I
+- **TUE 24/Sep/2024: Data visualization I**
   - 9h - 12:
   - 12h - 13h: lunch time
   - 13h - 16h
 
-- Day 2.3: WED 25/Sep/2024: Data visualization II
+- **WED 25/Sep/2024: Data visualization II**
   - 9h - 12:
   - 12h - 13h: lunch time
   - 13h - 16h
  
-- Day 2.4: THU 26/Sep/2024: Prepare for final presentation
+- **THU 26/Sep/2024: Prepare for presentation**
   - 9h - 12: Open hour for questions
   - 12h - 13h: lunch time
   - 13h - 16h:
 
-- Day 2.5: FRI 27/Sep/2024
+- **FRI 27/Sep/2024: Presentation**
   - 9h - 12: Clean up documentation and scripts and send them to the teachers
   - 12h - 13h: lunch time
   - 13h - 16h: Final presentation: 20' presentation plus questions
