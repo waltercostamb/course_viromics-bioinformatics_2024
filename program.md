@@ -63,8 +63,3 @@ The theoretical part will be composed of a series of questions for you to resear
   - 9h - 12: Clean up documentation and scripts and send them to the teachers
   - 12h - 13h: lunch time
   - 13h - 16h: Final presentation: 20' presentation plus questions
- 
-
-- Source: https://mgxlab.github.io/Viromics-Workshop-MGX/
-- Taxonomy I: Cluster proteins, Vcontact network, classification of taxonomy based on clusters
-- Taxonomy II: Genomad, HMM search for marker genes
