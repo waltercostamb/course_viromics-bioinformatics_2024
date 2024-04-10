@@ -13,8 +13,7 @@ The theoretical part will be composed of a series of questions for you to resear
     - Accession to high performance cluster draco
     - Discussion and decision of entry point into program (what topics do the students already know?)
     - Evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.0_documentation.md) and presentation 
-  - 10h - 11h: [1.1_Introduction_viromics](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_Introduction_viromics.md)
-    - Write down at least 3 questions and/or discussion point about the lecture 
+  - 10h - 11h: [1.1_introduction_viromics](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_introduction_viromics.md)
   - 12h - 13h: lunch time
   - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_download.md)
 
