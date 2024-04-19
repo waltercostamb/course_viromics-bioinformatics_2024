@@ -24,45 +24,48 @@ The theoretical part will be composed of a series of questions for you to resear
   - 12h - 13h: lunch time
   - 13h - 16h: [Assembly II](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1_assembly_II.md)
  
-- **WED 18/Sep/2024: Identifying and annotating viruses I**
+- **WED 18/Sep/2024: Identifying viruses**
   - 9h - 12: Read benchmark paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03236-4
     - focus on understanding Figures 1, 3 and 6
   - 12h - 13h: lunch time
-  - 13h - 16h: Identify viral contigs
+  - 13h - 16h: Identify viral contigs, assess genome completeness, filter only high quality ones
 
-- **THU 19/Sep/2024: Identifying and annotating viruses II**
+- **THU 19/Sep/2024: Gene finding**
   - 9h - 12: talk/research annotation
   - 12h - 13h: lunch time
-  - 13h - 16h: analyse and interprete results from yesterday
+  - 13h - 16h: find genes
  
-- **FRI 20/Sep/2024: Taxonomy**
-  - 9h - 12: Viral taxonomy vs. microbial taxonomy
+- **FRI 20/Sep/2024: Functional annotation and visualization**
+  - 9h - 12: with HMMsearch, search for PHROGs (if it takes too long, select longest contigs)
   - 12h - 13h: lunch time
-  - 13h - 16h: VContact2
+  - 13h - 16h: visualization (if it takes too long, select longest contigs)
+    - ggplot or a python package (show annotations in a single contig plot)
+    - easyfig (more than one contig): https://mjsull.github.io/Easyfig/ - depends on clustering method (AAI?)
  
 **Week 2:**
  
-- **MON 23/Sep/2024: Data analysis: answering a research question**
-  - 9h - 12: 
+- **MON 23/Sep/2024: Taxonomy**
+  - 9h - 12: Viral taxonomy vs. microbial taxonomy
   - 12h - 13h: lunch time
-  - 13h - 16h: 
+  - 13h - 16h: Genomad and VContact2
 
-- **TUE 24/Sep/2024: Data visualization I**
+- **TUE 24/Sep/2024: Phylogeny**
   - 9h - 12:
   - 12h - 13h: lunch time
   - 13h - 16h
 
-- **WED 25/Sep/2024: Data visualization II**
-  - 9h - 12:
+- **WED 25/Sep/2024: Research question**
+  - 9h - 12: 2.3.x_research_question.md
   - 12h - 13h: lunch time
-  - 13h - 16h
+  - 13h - 16h: Develop your reseach proposal
  
 - **THU 26/Sep/2024: Prepare for presentation**
-  - 9h - 12: Open hour for questions
+  - 9h - 12: Open hour for questions, further develop your reseach proposal
   - 12h - 13h: lunch time
-  - 13h - 16h:
+  - 13h - 16h: prepare for presentation
 
 - **FRI 27/Sep/2024: Presentation**
-  - 9h - 12: Clean up documentation and scripts and send them to the teachers
-  - 12h - 13h: lunch time
-  - 13h - 16h: Final presentation: 20' presentation plus questions
+  - 10h - 11h30: Final presentation: 20' presentation plus questions
+  - ?
+  - 11h30 - 13h: lunch time
+  - 13h - 16h: Clean up documentation and scripts and send them to the teachers
