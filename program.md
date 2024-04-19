@@ -44,15 +44,15 @@ The theoretical part will be composed of a series of questions for you to resear
  
 **Week 2:**
  
-- **MON 23/Sep/2024: Taxonomy**
-  - 9h - 12: Viral taxonomy vs. microbial taxonomy
-  - 12h - 13h: lunch time
-  - 13h - 16h: Genomad and VContact2
-
-- **TUE 24/Sep/2024: Phylogeny**
+- **MON 23/Sep/2024: Host annotation**
   - 9h - 12:
   - 12h - 13h: lunch time
   - 13h - 16h
+
+- **TUE 24/Sep/2024: Taxonomy and Phylogeny**
+  - 9h - 12: Viral taxonomy vs. microbial taxonomy
+  - 12h - 13h: lunch time
+  - 13h - 16h: Genomad and VContact2
 
 - **WED 25/Sep/2024: Research question**
   - 9h - 12: 2.3.x_research_question.md
