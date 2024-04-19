@@ -2,17 +2,19 @@
 
 This module consists of 60 working hours to be held in two weeks. Attendance is required between 9h to 12h and 13h to 16h. If not otherwise indicated by the teacher, theory will be covered in the mornings and practice in the afternoons.   
 
-The theoretical part will be composed of a series of questions for you to research and answer from 9h to 11h30. From 11h30 to 12h you will present and discuss your findings to a teacher or teacher assistant (TA). In the afternoon, you will run tools and analyse data. From 15h30 to 16h you will discuss your advances with a teacher or TA. At any point in time, they will be available to answer questions.      
+The theoretical part will be composed of a series of questions for you to research and answer from 9h to 11h30. From 11h30 to 12h you will present and discuss your findings to a teacher or teacher assistant (TA). In the afternoon, you will run tools and analyse data. From 15h30 to 16h you will discuss your advances with a teacher or TA. At any point in time, they will be available to answer questions.       
+
+- Taxonomy I: Cluster proteins, Vcontact network, classification of taxonomy based on clusters
+- Taxonomy II: Genomad, HMM search for marker genes
 
 **Week 1:**
 
 - **MON 16/Sep/2024: Introduction**
   - 9h - 10h:
-    - Introduction to the program
-    - Introduction of the students
+    - Introduction to the program and evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.0_documentation.md) and presentation 
+    - Students introduce themselves and reflect on the program
     - Accession to high performance cluster draco
-    - Discussion and decision of entry point into program (what topics do the students already know?)
-    - Evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.0_documentation.md) and presentation 
+
   - 10h - 11h: [1.1_introduction_viromics](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_introduction_viromics.md)
   - 12h - 13h: lunch time
   - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_sequencing_quality.md)
