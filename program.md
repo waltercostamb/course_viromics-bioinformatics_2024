@@ -28,12 +28,7 @@ The theoretical part will be composed of a series of questions for you to resear
   - 9h - 12: Read benchmark paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03236-4
     - focus on understanding Figures 1, 3 and 6
   - 12h - 13h: lunch time
-  - 13h - 16h: Run Jaeger in a virome and a metagenome
-    - after filtering 
-    - virome (small size fraction) and metagenome (larger size fraction)
-    - Add questions
-      - Where do you expect the most hits? (Before running tool)
-      - How would you rank Jaeger compared to other virus detection tools? (After running tool)
+  - 13h - 16h: Identify viral contigs
 
 - **THU 19/Sep/2024: Identifying and annotating viruses II**
   - 9h - 12: talk/research annotation
