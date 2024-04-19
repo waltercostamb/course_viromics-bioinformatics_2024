@@ -25,7 +25,8 @@ The theoretical part will be composed of a series of questions for you to resear
   - 13h - 16h: [Assembly II](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1_assembly_II.md)
  
 - **WED 18/Sep/2024: Identifying and annotating viruses I**
-  - 9h - 12: Read benchmark paper: https://www.biorxiv.org/content/10.1101/2023.04.26.538077v2.full
+  - 9h - 12: Read benchmark paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03236-4
+    - focus on understanding Figures 1, 3 and 6
   - 12h - 13h: lunch time
   - 13h - 16h: Jaeger, Virify and a 3rd tool on a virome and a metagenome
 
