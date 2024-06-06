@@ -28,7 +28,7 @@ The theoretical part will be composed of a series of questions for you to resear
   - 9h - 12: Read benchmark paper: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03236-4
     - focus on understanding Figures 1, 3 and 6
   - 12h - 13h: lunch break
-  - 13h - 16h: Identify viral contigs, assess genome completeness, filter only high quality ones
+  - 13h - 16h: [Identification of viral contigs](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.3.2_identify_viral_contigs.md)
 
 - **THU 19/Sep/2024: Gene finding**
   - 9h - 12: talk/research annotation
