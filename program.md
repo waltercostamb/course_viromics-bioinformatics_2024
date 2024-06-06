@@ -33,7 +33,7 @@ The theoretical part will be composed of a series of questions for you to resear
 - **THU 19/Sep/2024: Gene finding**
   - 9h - 12: talk/research annotation
   - 12h - 13h: lunch break
-  - 13h - 16h: find genes
+  - 13h - 16h: [Gene finding](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.4.2_gene_finding.md)
  
 - **FRI 20/Sep/2024: Functional annotation and visualization**
   - 9h - 12: with HMMsearch, search for PHROGs (if it takes too long, select longest contigs)
@@ -44,10 +44,10 @@ The theoretical part will be composed of a series of questions for you to resear
  
 **Week 2:**
  
-- **MON 23/Sep/2024: Host annotation**
+- **MON 23/Sep/2024: Host prediction**
   - 9h - 12:
   - 12h - 13h: lunch break
-  - 13h - 16h
+  - 13h - 16h: [Host prediction](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1.2_host_prediction.md)
 
 - **TUE 24/Sep/2024: Taxonomy and Phylogeny**
   - 9h - 12: Viral taxonomy vs. microbial taxonomy
