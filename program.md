@@ -11,13 +11,13 @@ The theoretical part will be composed of a series of questions for you to resear
 
 - **MON 16/Sep/2024: Introduction**
   - 9h - 10h:
-    - Introduction to the program and evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.0_lab_book.md) and presentation 
+    - Introduction to the program and evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1.0_lab_book.md) and presentation 
     - Students introduce themselves and reflect on the program
     - Access to high performance cluster draco
 
-  - 10h - 11h: [1.1_introduction_viromics](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_introduction_viromics.md)
+  - 10h - 11h: [Introduction to viromics]([https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1_introduction_viromics.md](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1.1_introduction_viromics.md))
   - 12h - 13h: lunch break
-  - 13h - 16h: [1.2_sequencing_quality](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_sequencing_quality.md)
+  - 13h - 16h: [Sequencing quality]([https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.2_sequencing_quality.md](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1.2_sequencing_quality.md))
 
 - **TUE 17/Sep/2024: Assembly**
   - 9h - 12: [Assembly I](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.0_assembly_I.md)
