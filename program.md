@@ -55,7 +55,7 @@ The theoretical part will be composed of a series of questions for you to resear
   - 13h - 16h: [Taxonomy and Phylogeny](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.2.2_taxonomy%20and%20Phylogeny.md)
 
 - **WED 25/Sep/2024: Research question**
-  - 9h - 12: [Read article](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.3.1_research_question.md)
+  - 9h - 12: [Literature research](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.3.1_research_question.md)
   - 12h - 13h: lunch break
   - 13h - 16h: [Develop your reseach proposal](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.3.1_research_question.md)
  
