@@ -57,12 +57,12 @@ The theoretical part will be composed of a series of questions for you to resear
 - **WED 25/Sep/2024: Research question**
   - 9h - 12: [Literature research](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.3.1_research_question.md)
   - 12h - 13h: lunch break
-  - 13h - 16h: [Develop your reseach proposal](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.3.1_research_question.md)
+  - 13h - 16h: [Developing your reseach proposal](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.3.1_research_question.md)
  
 - **THU 26/Sep/2024: Prepare for presentation**
-  - 9h - 12: Open hour for questions, further develop your reseach proposal
+  - 9h - 12: Open hour for questions, further develop your research proposal
   - 12h - 13h: lunch break
-  - 13h - 16h: prepare for presentation
+  - 13h - 16h: Prepare for final presentation
 
 - **FRI 27/Sep/2024: Presentation**
   - 10h - 11h30: Final presentation: 20' presentation plus questions
