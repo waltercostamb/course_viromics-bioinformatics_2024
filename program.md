@@ -11,7 +11,7 @@ The theoretical part will be composed of a series of questions for you to resear
 
 - **MON 16/Sep/2024: Introduction**
   - 9h - 10h:
-    - Introduction to the program and evaluation criteria: [lab book](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1.0_lab_book.md) and presentation 
+    - [Introduction to the program and evaluation criteria](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.1.0_introduction.md): lab book and presentation 
     - Students introduce themselves and reflect on the program
     - Access to high performance cluster draco
 
