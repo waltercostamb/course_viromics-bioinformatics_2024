@@ -31,7 +31,7 @@ The theoretical part will be composed of a series of questions for you to resear
   - 13h - 16h: [Identification of viral contigs](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.3.2_identify_viral_contigs.md)
 
 - **THU 19/Sep/2024: Gene finding**
-  - 9h - 12: talk/research annotation
+  - 9h - 12: talk/research annotation [gene finding lectures](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.4.1_gene_finding.md#gene-finding)
   - 12h - 13h: lunch break
   - 13h - 16h: [Gene finding](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.4.2_gene_finding.md)
  
