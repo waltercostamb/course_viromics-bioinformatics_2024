@@ -36,8 +36,8 @@ The theoretical part will be composed of a series of questions for you to resear
   - 13h - 16h: [Gene finding](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.4.2_gene_finding.md)
  
 - **FRI 20/Sep/2024: Functional annotation and visualization**
-  - 9h - 12: Bia/Varada to give lecture on functional annotation: blast --> HMMs --> structural 
-    - with HMMsearch, search for PHROGs (if it takes too long, select longest contigs)
+  - 9h - 12: Malte/Bia to give lecture on functional annotation: blast --> HMMs --> structural 
+    - with HMMsearch, search for PHROGs (if it takes too long, select longest contigs), Phold
   - 12h - 13h: lunch break
   - 13h - 16h: visualization (if it takes too long, select longest contigs)
     - ggplot (gggenomes/gggenes) or a python package (show annotations in a single contig plot)
