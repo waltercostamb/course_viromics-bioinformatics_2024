@@ -47,7 +47,7 @@ The theoretical part will be composed of a series of questions for you to resear
 **Week 2:**
  
 - **MON 23/Sep/2024: Host prediction**
-  - 9h - 12: Either video lecture or Varada gives one 
+  - 9h - 12: Varada and Malte gives one (traditional methods, graph neural networks, advantadges, disadvantadges) 
   - 12h - 13h: lunch break
   - 13h - 16h: [Host prediction](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1.2_host_prediction.md)
 
