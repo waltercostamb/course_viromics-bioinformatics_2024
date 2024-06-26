@@ -36,7 +36,7 @@ The theoretical part will be composed of a series of questions for you to resear
   - 13h - 16h: [Gene finding](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/1.4.2_gene_finding.md)
  
 - **FRI 20/Sep/2024: Functional annotation and visualization**
-  - 9h - 12: Malte/Bia to give lecture on functional annotation: blast --> HMMs --> structural 
+  - 9h - 12: Malte/Bia give lecture on functional annotation: blast --> HMMs --> structural 
     - with HMMsearch, search for PHROGs (if it takes too long, select longest contigs), Phold
   - 12h - 13h: lunch break
   - 13h - 16h: visualization (if it takes too long, select longest contigs)
@@ -47,7 +47,7 @@ The theoretical part will be composed of a series of questions for you to resear
 **Week 2:**
  
 - **MON 23/Sep/2024: Host prediction**
-  - 9h - 12: Varada and Malte gives one (traditional methods, graph neural networks, advantadges, disadvantadges) 
+  - 9h - 12: Varada and Malte give lecture (traditional methods, graph neural networks, advantadges, disadvantadges) 
   - 12h - 13h: lunch break
   - 13h - 16h: [Host prediction](https://github.com/waltercostamb/course_viromics-bioinformatics_2024/blob/main/tutorials/2.1.2_host_prediction.md)
 
